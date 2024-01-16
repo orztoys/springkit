@@ -1,3 +1,22 @@
+# macos
+.DS_Store
+
+# Eclipse
+/.settings/
+.settings/
+/target/
+target/
+*.class
+*.jar
+bin/
+gen/
+.classpath
+.project
+
+# IntelliJ project
+.idea
+*.iml
+
 # Compiled class file
 *.class
 
